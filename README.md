@@ -1,6 +1,6 @@
-## Getting Started
+## Sistema de cadastro de notas 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Utilizando array bidimensional
 
 ## Folder Structure
 
